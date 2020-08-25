@@ -1,0 +1,10 @@
+.map-general{
+
+}
+
+.map-square-general{
+}
+
+.map-square-current{
+    -fx-background-color: lawngreen;
+}

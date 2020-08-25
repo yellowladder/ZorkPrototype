@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ZorkModel">
+    <output-path>$PROJECT_DIR$/out/artifacts/ZorkModel</output-path>
+    <root id="archive" name="ZorkModel.jar">
+      <element id="module-output" name="Model" />
+    </root>
+  </artifact>
+</component>
